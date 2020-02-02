@@ -1,0 +1,6 @@
+framework module Pods_5140AssignmentStarter {
+  umbrella header "Pods-5140AssignmentStarter-umbrella.h"
+
+  export *
+  module * { export * }
+}
